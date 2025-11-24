@@ -32,7 +32,7 @@ All projects are built primarily in **Python**, using **Google Colab** and AI to
 
 ### 1. **Meat Freshness Classifier (CNN)**
 - **Tech:** Python, TensorFlow/Keras, scikit-learn, NumPy, Pandas, Matplotlib  
-- **Description:** A Convolutional Neural Network (CNN) model designed to classify meat freshness into *Fresh*, *Half-Fresh*, and *Not Fresh*.  
+- **Description:** A Convolutional Neural Network (CNN) model designed to classify meat images into *Fresh*, *Half-Fresh*, and *Not Fresh*.  
 - **Folder:** `Meat Freshness Classifier/`
 
 ---
