@@ -24,7 +24,7 @@
 # 🧠 Machine Learning Projects
 
 A curated collection of my machine learning projects, experiments, and learning progress.  
-All projects are built primarily in **Python**, using **Google Colab**, **Jupyter Notebook**, and AI tools like **ChatGPT 5.1** and **Gemini 3.0** for ideation, debugging, and documentation.
+All projects are built primarily in **Python**, using **Google Colab** and AI tools (**ChatGPT 5.1** and **Gemini 3.0**) for ideation, debugging, and documentation.
 
 ---
 
