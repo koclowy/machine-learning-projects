@@ -55,6 +55,6 @@ All projects are built primarily in **Python**, using **Google Colab** and AI to
 ### 3. **Weather Classifier**
 - **Tech:** Python, scikit-learn, NumPy, Pandas, Matplotlib  
 - **Description:** Logistic Regression and Random Forest models used to classify meteorological data into *Normal* or *Extreme* weather conditions.  
-- **Folder:** [weather classifier]()
+- **Folder:** [weather classifier](https://github.com/koclowy/machine-learning-projects/tree/4628b5fcc30a5db707fef94fe97940572bb56bf3/Weather%20Classifier)
 
 ---
