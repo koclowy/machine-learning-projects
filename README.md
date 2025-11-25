@@ -48,7 +48,7 @@ All projects are built primarily in **Python**, using **Google Colab** and AI to
 ### 2. **Mental Health Sentiment Analysis**
 - **Tech:** Python, scikit-learn, TensorFlow/Keras, NumPy, Pandas, Matplotlib, NLTK, spaCy, nlpaug  
 - **Description:** A natural language processing (NLP) classifier that detects whether a mental-health-related statement is *Depressed (1)* or *Normal (0)*.  
-- **Folder:** [mental health sentiment analysis]()
+- **Folder:** [mental health sentiment analysis](https://github.com/koclowy/machine-learning-projects/tree/99b14e2f3d16b871392f215063ac0fa8877f4e91/Mental%20Health%20Sentiment%20Analysis)
 
 ---
 
